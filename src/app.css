@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  margin: 0 10%;
+  color: #121212;
+}
+
+main {
+  position: absolute;
+  width: 100%;
+}
